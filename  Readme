@@ -1,0 +1,12 @@
+Run the commands as follows:
+
+$ make sample2D
+$ ./sample2D
+
+
+
+Controls:
+
+'w' ->  angle increase of launcher
+'s' ->  angle decrease of launcher
+'spacebar' ->  Power ( To increase power, press it for a longer duration )
